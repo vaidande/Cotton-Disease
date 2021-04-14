@@ -1,1 +1,2 @@
-Cotton-Disease-Prediction-InceptionResNetV2 val_accuracy = 93.519%
+Model                                       val_accuracy
+Cotton-Disease-Prediction-InceptionResNetV2 93.519%
