@@ -1,4 +1,4 @@
-| Model                                        | val_accuracy  |
+| Model                                        | fine tuning val_accuracy  |
 | ---------------------------------------------| ------------- |
 | Cotton-Disease-Prediction-InceptionResNetV2  | 94.753%       |
 | Cotton-Disease-Prediction-Xception           | 96.296%       |
